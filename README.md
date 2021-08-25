@@ -1,9 +1,5 @@
 ## Olá! Me chamo Giovani Pinzigher
 
-- 🔭 Hoje trabalho com Front End
-- 🌱 Estudando NodeJS
-- 🎥 Instagram - gvnon_
-
 <div>
   <a href="https://github.com/devgiovani">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devgiovani&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
